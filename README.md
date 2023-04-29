@@ -63,7 +63,6 @@ To train the model, execute the following file:
 model_enCWS.ipynb
 ```
 
-For real-time detection and classification using your webcam, run:
 
 ## Evaluation
 
