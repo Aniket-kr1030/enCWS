@@ -29,13 +29,13 @@ To set up the environment and install the required dependencies, follow these st
 1. Clone the repository:
 
    ```
-   git clone https://github.com/username/suspicious-activity-classification.git
+   git clone https://github.com/username/enCWS.git
    ```
 
 2. Change the directory:
 
    ```
-   cd suspicious-activity-classification
+   cd enCWS
    ```
 
 3. Create a virtual environment and activate it:
