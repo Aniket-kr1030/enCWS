@@ -17,10 +17,10 @@ This project is based on the Fast R-CNN architecture, a popular choice for objec
 Some examples of suspicious activities include:
 
 - Assault
+- Arrest
 - Burglary
-- Break-in
-- Trespassing
-- Vehicle break-ins
+- Fighting
+- Abuse
 
 ## Installation
 
